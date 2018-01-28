@@ -1,4 +1,5 @@
-#Generate a sequence of 25 independent Bernoulli random variables, each having parameter p = 0.8. How many random numbers were needed?
+#Generate a sequence of 25 independent Bernoulli random variables, each having parameter p = 0.8. 
+#How many random numbers were needed?
 
 #Initilization of counter variable
 count <- 0
